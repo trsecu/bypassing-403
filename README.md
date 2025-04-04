@@ -29,6 +29,8 @@ A powerful tool for bypassing 403 Forbidden responses with multiple bypass techn
   - Error handling
   - Results saving
   - Multiple target support
+    
+![Tool Screenshot](cmd.png)
 
 ## Installation
 
