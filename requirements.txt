@@ -1,0 +1,10 @@
+# HTTP and Networking
+aiohttp==3.9.1  # Async HTTP client/server
+
+# URL and Domain Handling
+tldextract==3.6.0  # Domain name parsing
+validators==0.22.0  # URL validation
+
+# Terminal Output
+colorama==0.4.6  # Cross-platform colored terminal text
+pyfiglet==0.8.post1  # ASCII art banner generation
