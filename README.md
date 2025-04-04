@@ -35,7 +35,7 @@ A powerful tool for bypassing 403 Forbidden responses with multiple bypass techn
 1. Clone the repository:
 ```bash
 git clone https://github.com/trsecu/bypassing-403.git
-cd 403bypasser
+cd bypassing-403
 ```
 
 2. Install dependencies:
